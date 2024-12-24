@@ -1,0 +1,18 @@
+{
+    "name": "مہشہكہلتہيہ مہزهہ هہ",
+    "ID": "100091395939310",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "19:46:37, 23/7/2023"
+}

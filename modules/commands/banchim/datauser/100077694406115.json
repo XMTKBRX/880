@@ -1,0 +1,18 @@
+{
+    "name": "兵藤一誠",
+    "ID": "100077694406115",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 10,
+            "pool": 10,
+            "pet": 10
+        }
+    },
+    "spin": 19,
+    "timeRegister": "04:41:33, 23/7/2023"
+}
